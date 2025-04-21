@@ -1,5 +1,8 @@
 # Como remover os nomes dos parâmetros ao chamar métodos no Java no VSCode (Inlay Hints)
 
+![image](https://github.com/user-attachments/assets/5549c899-5df2-466f-8515-ad867d2b52d8)
+
+
 Ao utilizar o plugin Java da RedHat no VSCode, é comum que ao chamar um método, o editor exiba o nome dos parâmetros como uma dica visual. Por exemplo:
 
 ```java
