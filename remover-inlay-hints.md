@@ -13,16 +13,17 @@ Se você quiser remover essas dicas de nomes de parâmetros (conhecidas como Inl
 Passo a passo para desativar os nomes dos parâmetros
 1. Acesse as configurações do VSCode
 
-- Use o atalho: Ctrl + , (Windows/Linux) ou Cmd + , (macOS)
+- Use o atalho: `Ctrl +` , (Windows/Linux) ou `Cmd +` , (macOS)
 
 2. Pesquise por:
 ````
 java inlay hints parameter names
 ````
+
 3. Desative a opção:
-````
-Java › Inlay Hints: Parameter Names
-````
+
+`Java › Inlay Hints: Parameter Names`
+
 Desmarque essa opção para que os nomes dos parâmetros deixem de ser exibidos.
 
 # 💡 Alternativa: Editando o settings.json
