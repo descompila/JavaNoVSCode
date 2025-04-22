@@ -84,6 +84,8 @@ Agora você está com o VSCode configurado para desenvolvimento em Java. 🚀
 
 Veja a [mais clicando aqui](remover-inlay-hints.md)
 
+## Assista o vídeo que deu origem a este repositório: 
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/6v2n-OimVeg/0.jpg)](https://www.youtube.com/watch?v=6v2n-OimVeg)
 
 
 
